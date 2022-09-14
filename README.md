@@ -7,7 +7,6 @@
    <img src="http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=RED&style=for-the-badge"/>
 </p>
 
-
 ## Descrição do projeto
 <div>
     <p>
@@ -87,3 +86,15 @@ Para testas a API, no termial do Visual Studio Code execulte o comando abaixo:
 ```
 python app.py
 ```
+
+<br>
+
+##  ✔️ Técnicas e tecnologias utilizadas
+
+-  ``Python 3``
+-  ``Flask``
+-  ``Flask-SqlAchemy``
+-  ``MySQL``
+-  ``Visual Studio Code``
+-  ``CRUD em banco de dados``
+
